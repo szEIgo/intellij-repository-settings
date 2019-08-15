@@ -1,0 +1,67 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/TDC/development/esl-client" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/java-util" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/TDC/backup_development/apiservice" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/backup_development/phoneservices" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/backup_development/phonestatus" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/backup_development/pim" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/deployment/apiservice" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/deployment/phoneservices" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/deployment/pim" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/apiservice" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/apiservice-common" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/apiservice-test-client" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/freeswitch-scala-esl" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/java-util/billing" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/jira-auto-backup" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/phoneservices" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/phoneservices-common" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/phonestatus" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/pim" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/pim-client-library" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/pushservice" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/rpc-akka" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/util-akka" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/util-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/TDC/development/util-telephony" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="/usr/lib/jvm/java-7-openjdk" />
+        <option name="maximumHeapSize" value="4096" />
+        <option name="vmParameters" value="-ea" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

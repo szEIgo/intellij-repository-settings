@@ -1,0 +1,63 @@
+<application>
+  <component name="DiffManager">
+    <enableMerge value="true" />
+    <mergeTool value="/usr/bin/kdiff3" newValue="/usr/bin/kdiff3" />
+    <mergeToolParameters value="%3 %1 %2 -o %4" />
+  </component>
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="false" />
+    <option name="DIFF_DEFAULT" value="false" />
+    <option name="DIFF_EXE_PATH" value="" />
+    <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="/usr/bin/kdiff3" />
+    <option name="MERGE_PARAMETERS" value="%3 %1 %2 -o %4" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="SHOW_WHITESPACES" value="true" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+</application>
