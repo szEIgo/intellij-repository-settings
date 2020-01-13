@@ -1,7 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
     <notification groupId="sbt Import" displayType="STICKY_BALLOON" />
