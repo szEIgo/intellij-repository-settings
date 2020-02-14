@@ -15,6 +15,9 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="EditSource" />
+  <action id="ExternalSystem.RefreshAllProjects">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
   <action id="OpenModuleSettings" />
   <action id="RunToCursor" />
   <action id="Scala.ShowImplicits">
