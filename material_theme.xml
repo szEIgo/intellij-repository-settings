@@ -1,11 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="Darcula" />
+    <option name="highContrast" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-878c343:16c947231d7:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
