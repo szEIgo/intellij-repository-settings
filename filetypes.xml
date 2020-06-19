@@ -5,9 +5,9 @@
       <mapping pattern="sharedCognitoUserPoolClient-template.yaml" type="AWSCloudFormation (YAML)" />
       <mapping pattern="sharedCognito-template.yaml" type="AWSCloudFormation (YAML)" />
       <mapping pattern="userService-deployment.yaml" type="AWSCloudFormation (YAML)" />
-      <mapping pattern="Running" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="ContactsJsonProtocol" type="PLAIN_TEXT" />
+      <mapping pattern="Running" type="PLAIN_TEXT" />
       <mapping pattern="testDockerfile" type="PLAIN_TEXT" />
       <mapping pattern="MergedContactDeserializingTestInstance-2015-91-22-0dbe7cba-68ef-4712-b7d4-5f33274a70fe" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
