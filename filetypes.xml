@@ -2,26 +2,28 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="sharedCognitoUserPoolClient-template.yaml" type="AWSCloudFormation (YAML)" />
-      <mapping pattern="sharedCognito-template.yaml" type="AWSCloudFormation (YAML)" />
-      <mapping pattern="userService-deployment.yaml" type="AWSCloudFormation (YAML)" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="MergedContactDeserializingTestInstance-2015-91-22-0dbe7cba-68ef-4712-b7d4-5f33274a70fe" type="PLAIN_TEXT" />
+      <mapping pattern="testDockerfile" type="PLAIN_TEXT" />
       <mapping pattern="ContactsJsonProtocol" type="PLAIN_TEXT" />
       <mapping pattern="Running" type="PLAIN_TEXT" />
-      <mapping pattern="testDockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="MergedContactDeserializingTestInstance-2015-91-22-0dbe7cba-68ef-4712-b7d4-5f33274a70fe" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
-      <mapping ext="curl" type="PLAIN_TEXT" />
       <mapping ext="conf-example" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="curl" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="sharedCognito-template.yaml" type="AWSCloudFormation (YAML)" />
+      <mapping pattern="sharedCognitoUserPoolClient-template.yaml" type="AWSCloudFormation (YAML)" />
+      <mapping pattern="userService-deployment.yaml" type="AWSCloudFormation (YAML)" />
     </extensionMap>
   </component>
 </application>
