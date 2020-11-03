@@ -3,7 +3,7 @@
     <property name="created">2019-08-15T10:43:28</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-04-01T11:03:34</property>
+    <property name="modified">2020-11-03T12:35:33</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -32,4 +32,31 @@
     <option name="FILESTATUS_changelistConflict" value="ff0000" />
     <option name="FILESTATUS_modifiedOutside" value="f4eeaa" />
   </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3939" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
