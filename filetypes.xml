@@ -7,6 +7,7 @@
       <mapping pattern="sharedCognito-template.yaml" type="AWSCloudFormation (YAML)" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="Using" type="PLAIN_TEXT" />
       <mapping pattern="MergedContactDeserializingTestInstance-2015-91-22-0dbe7cba-68ef-4712-b7d4-5f33274a70fe" type="PLAIN_TEXT" />
       <mapping pattern="testDockerfile" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
