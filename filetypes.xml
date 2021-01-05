@@ -12,6 +12,7 @@
       <mapping pattern="testDockerfile" type="PLAIN_TEXT" />
       <mapping pattern="RawCdrMulti" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="output_dec" type="PLAIN_TEXT" />
       <mapping pattern="ContactsJsonProtocol" type="PLAIN_TEXT" />
       <mapping pattern="Running" type="PLAIN_TEXT" />
       <mapping ext="conf-example" type="PLAIN_TEXT" />
