@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'libvoxbone-hg'" />
     <option name="defaultScopeName" value="Project 'libvoxbone-hg'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'libvoxbone-hg'" />
   </component>
 </application>
